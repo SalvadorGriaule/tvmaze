@@ -1,20 +1,12 @@
 <div style="display: flex; justify-content: center">
 
-<div style="width: 25%">
+<img width="150px" src="./assetMD/vite-svgrepo-com.svg">
 
-![](./assetMD/vite-svgrepo-com.svg)
 
-</div>
-<div style="width: 25%">
+<img width="150px" src="./assetMD/react-svgrepo-com.svg">
 
-![](./assetMD/react-svgrepo-com.svg)
 
-</div>
-<div style="width: 25%">
-
-![](./assetMD/tailwind-svgrepo-com(1).svg)
-
-</div>
+<img width="150px" src="/assetMD/tailwind-svgrepo-com(1).svg">
 
 </div>
 

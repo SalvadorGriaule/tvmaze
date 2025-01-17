@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center">
-
+<p align="center">
 <img width="150px" src="./assetMD/vite-svgrepo-com.svg">
 
 
@@ -7,7 +7,7 @@
 
 
 <img width="150px" src="/assetMD/tailwind-svgrepo-com(1).svg">
-
+</p>
 </div>
 
 # Foad du 17 Janvier
